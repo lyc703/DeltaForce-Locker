@@ -34,13 +34,16 @@
    在你自己 Fork 后的仓库页面，点击 **Code → Download ZIP** 下载压缩包。  
 
 > 💡 **电脑端** 代码位于 `Desktop/` 文件夹，**手机端** 代码位于 `Mobile/` 文件夹。下载后请根据对应子项目的 README 进行操作。
+
 > **请务分区分开DeltaForce-Locker与DeltaForce-OBS-Locker两个项目**
 ---
 
 ## 📚 完整教程（必读）
 
-> **👉 [三角洲行动腾讯管家吸附原理 & 本项目 v3 版本介绍](https://blog.csdn.net/qq_63129682/article/details/161447283)**  
+> **👉 [三角洲行动腾讯管家吸附原理 & 本项目 v3 版本介绍](https://blog.csdn.net/qq_63129682/article/details/161447283)**
+
 > **👉 [手把手教你注册GitHub账号](https://blog.csdn.net/qq_63129682/article/details/161460238)**
+
 > **👉 [从零开始：两种主流方式轻松部署Python开发环境](https://blog.csdn.net/qq_63129682/article/details/161473936?spm=1001.2014.3001.5501)**
 
 **请务必先阅读以上三篇教程**，它们包含了本项目的原理讲解、环境配置、常见问题解决等核心内容。
