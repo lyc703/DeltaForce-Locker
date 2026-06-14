@@ -34,7 +34,8 @@
    在你自己 Fork 后的仓库页面，点击 **Code → Download ZIP** 下载压缩包。  
 
 > 💡 **电脑端** 代码位于 `Desktop/` 文件夹，**手机端** 代码位于 `Mobile/` 文件夹。下载后请根据对应子项目的 README 进行操作。
-> **请务分清楚DeltaForce-Locker与DeltaForce-OBS-Locker两个项目的区别**
+
+> **请务分区分开DeltaForce-Locker与DeltaForce-OBS-Locker两个项目**
 ---
 
 ## 📚 完整教程（必读）
