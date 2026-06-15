@@ -56,8 +56,8 @@
 
 | 子项目 | 主要技术栈 | 适合人群 | 详细文档 |
 |--------|-----------|----------|----------|
-| **电脑端** | Python, OpenCV, OBS, SendInput | Python 初学者、计算机视觉爱好者 | [电脑端 README](./Desktop/README.md) |
-| **手机端** | Python 下载脚本 + APK | 普通用户、Android 测试者 | [手机端 README](./Mobile/README.md) |
+| **电脑端** | Python, OpenCV, OBS, SendInput | Python 初学者、计算机视觉爱好者 | [电脑端 README](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Desktop/README.md) |
+| **手机端** | Python 下载脚本 + APK | 普通用户、Android 测试者 | [手机端 README](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Mobile/README.md) |
 
 > 💡 **电脑端** 提供从零开始的 Python 编程实战教程（本地代码结构解析）；  
 > **手机端** 提供 APK 自动下载脚本。
@@ -101,8 +101,8 @@
 - **手机端**：提供 APK 文件及自动下载脚本，方便在 Android 设备上测试原理验证效果。
 
 👉 详细代码结构与本地运行说明请分别查看：
-- [电脑端 README](./Desktop/README.md)
-- [手机端 README](./Mobile/README.md)
+- [电脑端 README](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Desktop/README.md)
+- [手机端 README](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Mobile/README.md)
 
 ---
 
