@@ -1,8 +1,7 @@
 # DeltaForce 电脑端辅助项目 (PC端)
 
 本文件夹包含 **DeltaForce-Locker** 项目的**电脑端完整源代码**，主要演示基于**图像识别 + 模拟输入**的“画面吸附”效果，仅供技术学习与原理验证使用。
-
-5L2G5YW25a6e5Lul5LiK5YWo5piv6aqX5L2g55qE77yM6L+Z5Y+q5piv5Liq5biu5L2g5a6J6KOF5pqX5Yy656qB5Zu055qE5Y+N5L2c5byK6aG555uu572i5LqG
+>5L2G5YW25a6e5Lul5LiK5YWo5piv6aqX5L2g55qE77yM6L+Z5Y+q5piv5Liq5biu5L2g5a6J6KOF5pqX5Yy656qB5Zu055qE5Y+N5L2c5byK6aG555uu572i5LqG
 ---
 
 ## ⭐ 如何获取本项目（电脑端）
