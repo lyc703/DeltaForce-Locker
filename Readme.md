@@ -15,7 +15,7 @@
   <div align="center">
     <img src="https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Mobile/Protective_suit.jpg?raw=true" alt="核电站AZ3容器防护服样本" width="400">
     <br>
-    <em>△ 核电站AZ3地图中的容器防护服（V3版本曾误判为真人）</em>
+    <em>△ 核电站AZ3地图中的容器防护服（V3版本曾被误判为真人）</em>
   </div>
 
 - **🧠 识别逻辑增强**：在视觉识别管线中新增了特定轮廓过滤层，确保容器防护服不再参与目标锁定计算，大幅提升复杂场景下的识别纯净度。
